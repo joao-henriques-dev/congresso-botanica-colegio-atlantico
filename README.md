@@ -4,5 +4,5 @@ A simple, static website made for a scientific congress Colégio Atlântico host
 
 ## Tech Stack
 
-- HTML (for the basic page structure)
+- HTML (for the basic web page structure)
 - Bootstrap (to help build user interfaces without the need for CSS and JavaScript)
